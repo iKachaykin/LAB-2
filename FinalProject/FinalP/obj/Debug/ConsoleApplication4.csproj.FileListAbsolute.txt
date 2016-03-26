@@ -1,0 +1,6 @@
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Учеба\Программирование\Обычное\лабы\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
